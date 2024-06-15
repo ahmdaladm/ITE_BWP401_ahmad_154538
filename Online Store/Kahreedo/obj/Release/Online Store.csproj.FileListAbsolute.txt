@@ -1,0 +1,34 @@
+C:\Users\PC\Desktop\Online Store\Kahreedo\bin\Khareedo.dll.config
+C:\Users\PC\Desktop\Online Store\Kahreedo\bin\Khareedo.dll
+C:\Users\PC\Desktop\Online Store\Kahreedo\bin\Khareedo.pdb
+C:\Users\PC\Desktop\Online Store\Kahreedo\bin\Antlr3.Runtime.dll
+C:\Users\PC\Desktop\Online Store\Kahreedo\bin\EntityFramework.dll
+C:\Users\PC\Desktop\Online Store\Kahreedo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC\Desktop\Online Store\Kahreedo\bin\Newtonsoft.Json.dll
+C:\Users\PC\Desktop\Online Store\Kahreedo\bin\PagedList.dll
+C:\Users\PC\Desktop\Online Store\Kahreedo\bin\PagedList.Mvc.dll
+C:\Users\PC\Desktop\Online Store\Kahreedo\bin\System.Web.Helpers.dll
+C:\Users\PC\Desktop\Online Store\Kahreedo\bin\System.Web.Mvc.dll
+C:\Users\PC\Desktop\Online Store\Kahreedo\bin\System.Web.Optimization.dll
+C:\Users\PC\Desktop\Online Store\Kahreedo\bin\System.Web.Razor.dll
+C:\Users\PC\Desktop\Online Store\Kahreedo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PC\Desktop\Online Store\Kahreedo\bin\System.Web.WebPages.dll
+C:\Users\PC\Desktop\Online Store\Kahreedo\bin\System.Web.WebPages.Razor.dll
+C:\Users\PC\Desktop\Online Store\Kahreedo\bin\WebGrease.dll
+C:\Users\PC\Desktop\Online Store\Kahreedo\bin\EntityFramework.xml
+C:\Users\PC\Desktop\Online Store\Kahreedo\bin\PagedList.xml
+C:\Users\PC\Desktop\Online Store\Kahreedo\bin\PagedList.Mvc.xml
+C:\Users\PC\Desktop\Online Store\Kahreedo\bin\System.Web.Helpers.xml
+C:\Users\PC\Desktop\Online Store\Kahreedo\bin\System.Web.Mvc.xml
+C:\Users\PC\Desktop\Online Store\Kahreedo\bin\System.Web.Optimization.xml
+C:\Users\PC\Desktop\Online Store\Kahreedo\bin\System.Web.Razor.xml
+C:\Users\PC\Desktop\Online Store\Kahreedo\bin\System.Web.WebPages.xml
+C:\Users\PC\Desktop\Online Store\Kahreedo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PC\Desktop\Online Store\Kahreedo\bin\System.Web.WebPages.Razor.xml
+C:\Users\PC\Desktop\Online Store\Kahreedo\bin\Antlr3.Runtime.pdb
+C:\Users\PC\Desktop\Online Store\Kahreedo\bin\Newtonsoft.Json.xml
+C:\Users\PC\Desktop\Online Store\Kahreedo\obj\Release\Online Store.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Online Store\Kahreedo\obj\Release\Online Store.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Online Store\Kahreedo\obj\Release\Online Store.csproj.CopyComplete
+C:\Users\PC\Desktop\Online Store\Kahreedo\obj\Release\Khareedo.dll
+C:\Users\PC\Desktop\Online Store\Kahreedo\obj\Release\Khareedo.pdb
