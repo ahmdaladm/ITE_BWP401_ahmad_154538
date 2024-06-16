@@ -5,11 +5,11 @@
         <a class="aa-add-card-btn" href="@(Session["username"] != null ? Url.Action("AddToCart", "Product", new { id = @Model.ProductID}) : Url.Action("Login", "Account"))"><span class="fa fa-shopping-cart"></span>Add To Cart</a>
         <figcaption>
             <h4 class="aa-product-title"><a href="#">@Model.Name</a></h4>
-            <span class="aa-product-price">Rs. @Model.UnitPrice</span><span class="aa-product-old-price">
+            <span class="aa-product-price">@Model.UnitPrice Usd</span><span class="aa-product-old-price">
                 <del>
                 @if(Model.OldPrice!=null)
                 {
-                     <text>Rs. @Model.OldPrice</text>
+                     <text>@Model.OldPrice Usd</text>
                 }
                 </del>
             </span>
