@@ -241,6 +241,7 @@
     <Content Include="Content\css\theme-color\yellow-theme.css" />
     <Content Include="Content\fonts\fontawesome-webfont.svg" />
     <Content Include="Content\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Content\img\Background.jpg" />
     <Content Include="Content\img\icon.ico" />
     <Content Include="Content\img\close-icon.png" />
     <Content Include="Content\img\electronics\electronic-1.png" />
@@ -375,6 +376,9 @@
       <DependentUpon>KhareedoDataModel.edmx</DependentUpon>
       <LastGenOutput>KhareedoDataModel.cs</LastGenOutput>
     </Content>
+    <None Include="Properties\PublishProfiles\ahmadaladem-001-site1 - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\ahmadaladem-001-site1 - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />

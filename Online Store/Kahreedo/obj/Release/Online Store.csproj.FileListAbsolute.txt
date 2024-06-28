@@ -32,3 +32,37 @@ C:\Users\PC\Desktop\Online Store\Kahreedo\obj\Release\Online Store.csproj.CoreCo
 C:\Users\PC\Desktop\Online Store\Kahreedo\obj\Release\Online Store.csproj.CopyComplete
 C:\Users\PC\Desktop\Online Store\Kahreedo\obj\Release\Khareedo.dll
 C:\Users\PC\Desktop\Online Store\Kahreedo\obj\Release\Khareedo.pdb
+C:\Users\Ahmad\Desktop\ITE_BWP401_ahmad_154538\ITE_BWP401_ahmad_154538\Online Store\Kahreedo\bin\Khareedo.dll.config
+C:\Users\Ahmad\Desktop\ITE_BWP401_ahmad_154538\ITE_BWP401_ahmad_154538\Online Store\Kahreedo\bin\Khareedo.dll
+C:\Users\Ahmad\Desktop\ITE_BWP401_ahmad_154538\ITE_BWP401_ahmad_154538\Online Store\Kahreedo\bin\Khareedo.pdb
+C:\Users\Ahmad\Desktop\ITE_BWP401_ahmad_154538\ITE_BWP401_ahmad_154538\Online Store\Kahreedo\bin\Antlr3.Runtime.dll
+C:\Users\Ahmad\Desktop\ITE_BWP401_ahmad_154538\ITE_BWP401_ahmad_154538\Online Store\Kahreedo\bin\EntityFramework.dll
+C:\Users\Ahmad\Desktop\ITE_BWP401_ahmad_154538\ITE_BWP401_ahmad_154538\Online Store\Kahreedo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ahmad\Desktop\ITE_BWP401_ahmad_154538\ITE_BWP401_ahmad_154538\Online Store\Kahreedo\bin\Newtonsoft.Json.dll
+C:\Users\Ahmad\Desktop\ITE_BWP401_ahmad_154538\ITE_BWP401_ahmad_154538\Online Store\Kahreedo\bin\PagedList.dll
+C:\Users\Ahmad\Desktop\ITE_BWP401_ahmad_154538\ITE_BWP401_ahmad_154538\Online Store\Kahreedo\bin\PagedList.Mvc.dll
+C:\Users\Ahmad\Desktop\ITE_BWP401_ahmad_154538\ITE_BWP401_ahmad_154538\Online Store\Kahreedo\bin\System.Web.Helpers.dll
+C:\Users\Ahmad\Desktop\ITE_BWP401_ahmad_154538\ITE_BWP401_ahmad_154538\Online Store\Kahreedo\bin\System.Web.Mvc.dll
+C:\Users\Ahmad\Desktop\ITE_BWP401_ahmad_154538\ITE_BWP401_ahmad_154538\Online Store\Kahreedo\bin\System.Web.Optimization.dll
+C:\Users\Ahmad\Desktop\ITE_BWP401_ahmad_154538\ITE_BWP401_ahmad_154538\Online Store\Kahreedo\bin\System.Web.Razor.dll
+C:\Users\Ahmad\Desktop\ITE_BWP401_ahmad_154538\ITE_BWP401_ahmad_154538\Online Store\Kahreedo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ahmad\Desktop\ITE_BWP401_ahmad_154538\ITE_BWP401_ahmad_154538\Online Store\Kahreedo\bin\System.Web.WebPages.dll
+C:\Users\Ahmad\Desktop\ITE_BWP401_ahmad_154538\ITE_BWP401_ahmad_154538\Online Store\Kahreedo\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ahmad\Desktop\ITE_BWP401_ahmad_154538\ITE_BWP401_ahmad_154538\Online Store\Kahreedo\bin\WebGrease.dll
+C:\Users\Ahmad\Desktop\ITE_BWP401_ahmad_154538\ITE_BWP401_ahmad_154538\Online Store\Kahreedo\bin\EntityFramework.xml
+C:\Users\Ahmad\Desktop\ITE_BWP401_ahmad_154538\ITE_BWP401_ahmad_154538\Online Store\Kahreedo\bin\PagedList.xml
+C:\Users\Ahmad\Desktop\ITE_BWP401_ahmad_154538\ITE_BWP401_ahmad_154538\Online Store\Kahreedo\bin\PagedList.Mvc.xml
+C:\Users\Ahmad\Desktop\ITE_BWP401_ahmad_154538\ITE_BWP401_ahmad_154538\Online Store\Kahreedo\bin\System.Web.Helpers.xml
+C:\Users\Ahmad\Desktop\ITE_BWP401_ahmad_154538\ITE_BWP401_ahmad_154538\Online Store\Kahreedo\bin\System.Web.Mvc.xml
+C:\Users\Ahmad\Desktop\ITE_BWP401_ahmad_154538\ITE_BWP401_ahmad_154538\Online Store\Kahreedo\bin\System.Web.Optimization.xml
+C:\Users\Ahmad\Desktop\ITE_BWP401_ahmad_154538\ITE_BWP401_ahmad_154538\Online Store\Kahreedo\bin\System.Web.Razor.xml
+C:\Users\Ahmad\Desktop\ITE_BWP401_ahmad_154538\ITE_BWP401_ahmad_154538\Online Store\Kahreedo\bin\System.Web.WebPages.xml
+C:\Users\Ahmad\Desktop\ITE_BWP401_ahmad_154538\ITE_BWP401_ahmad_154538\Online Store\Kahreedo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ahmad\Desktop\ITE_BWP401_ahmad_154538\ITE_BWP401_ahmad_154538\Online Store\Kahreedo\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ahmad\Desktop\ITE_BWP401_ahmad_154538\ITE_BWP401_ahmad_154538\Online Store\Kahreedo\bin\Antlr3.Runtime.pdb
+C:\Users\Ahmad\Desktop\ITE_BWP401_ahmad_154538\ITE_BWP401_ahmad_154538\Online Store\Kahreedo\bin\Newtonsoft.Json.xml
+C:\Users\Ahmad\Desktop\ITE_BWP401_ahmad_154538\ITE_BWP401_ahmad_154538\Online Store\Kahreedo\obj\Release\Online Store.csproj.AssemblyReference.cache
+C:\Users\Ahmad\Desktop\ITE_BWP401_ahmad_154538\ITE_BWP401_ahmad_154538\Online Store\Kahreedo\obj\Release\Online Store.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Desktop\ITE_BWP401_ahmad_154538\ITE_BWP401_ahmad_154538\Online Store\Kahreedo\obj\Release\Online S.1C76CC0D.Up2Date
+C:\Users\Ahmad\Desktop\ITE_BWP401_ahmad_154538\ITE_BWP401_ahmad_154538\Online Store\Kahreedo\obj\Release\Khareedo.dll
+C:\Users\Ahmad\Desktop\ITE_BWP401_ahmad_154538\ITE_BWP401_ahmad_154538\Online Store\Kahreedo\obj\Release\Khareedo.pdb
